@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hii I'm Biswaranjan 🌸
 
-<!--
-**BiswaranjanBehera67/BiswaranjanBehera67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science (Silicon University, Expected 2026)**  
+💻 Passionate about **Cloud Computing, Machine Learning, and SAP Technologies**  
+🌱 Always exploring new challenges and building impactful solutions
 
-Here are some ideas to get you started:
+## 💡 Strengths
+- 🔎 **Exploration:** I dive deep into problems to truly understand and solve them, even if it takes extra time.  
+- 🤝 **Collaboration:** Strong communication skills to work effectively in teams.  
+- 🚀 **Adaptability:** Always eager to learn and embrace new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐️ *If you like my work, consider giving my repositories a star and following me for updates!*  
