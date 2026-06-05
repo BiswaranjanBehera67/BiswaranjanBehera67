@@ -14,7 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=BiswaranjanBehera67&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BiswaranjanBehera67&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/BiswaranjanBehera67/BiswaranjanBehera67/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BiswaranjanBehera67/BiswaranjanBehera67/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=BiswaranjanBehera67&icon=0&color=0)](https://visitcount.itsvg.in)
