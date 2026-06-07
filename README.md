@@ -18,6 +18,6 @@
 ![snake gif](https://github.com/BiswaranjanBehera67/BiswaranjanBehera67/blob/output/github-snake-dark.svg)
 
 ---
-[![](https://komarev.com/ghpvc/?username=BiswaranjanBehera67&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=BiswaranjanBehera67&abbreviated=true&style=flat&color=ff69b4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
