@@ -1,7 +1,8 @@
 # Hii I'm Biswaranjan 🌸
  
 ## 💫 About Me:
-🎓 **B.Tech Computer Science (Silicon University, Expected 2026)**  <br>💻 Passionate about **Cloud Computing, Machine Learning, and SAP Technologies**  <br>🌱 Always exploring new challenges and building impactful solutions<br><br>## 💡 Strengths<br>- 🔎 **Exploration:** I dive deep into problems to truly understand and solve them, even if it takes extra time.  <br>- 🤝 **Collaboration:** Strong communication skills to work effectively in teams.  <br>- 🚀 **Adaptability:** Always eager to learn and embrace new technologies.<br><br>---<br><br>⭐️ *If you like my work, consider giving my repositories a star and following me for updates!*  <br>
+🎓 **B.Tech Computer Science (Silicon University, Expected 2026)**  <br>💻 Passionate about **Cloud Computing, Machine Learning, and SAP Technologies**  <br>🌱 Always exploring new challenges and building impactful solutions<br><br>
+## 💡 Strengths<br>- 🔎 **Exploration:** I dive deep into problems to truly understand and solve them, even if it takes extra time.  <br>- 🤝 **Collaboration:** Strong communication skills to work effectively in teams.  <br>- 🚀 **Adaptability:** Always eager to learn and embrace new technologies.<br><br>---<br><br>⭐️ *If you like my work, consider giving my repositories a star and following me for updates!*  <br>
 
 
 ## 🌐 Socials:
